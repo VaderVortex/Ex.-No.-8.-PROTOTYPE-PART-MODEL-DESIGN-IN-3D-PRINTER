@@ -46,9 +46,11 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+![EMPD ex 3](https://github.com/user-attachments/assets/9c5cf6b1-8135-4119-9ca0-b1ff73977336)
 
-### Name:
-### Register Number:
+
+### Name: S. Sanjeev Kumar
+### Register Number: 24006649
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
